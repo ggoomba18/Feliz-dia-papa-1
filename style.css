@@ -1,0 +1,30 @@
+body{
+    background-color: lightskyblue;
+    color: white;
+    font-family: cursive;
+    text-align: center;
+    font-size: 25px;
+}
+header{
+    text-align: center;
+    font-size: 50px;
+}
+nav{
+    text-align: center;
+    font-size: 25px;
+    background-color: lightblue;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+a:hover{
+    color: blue;
+}
+img{
+    text-align: center;
+    height: 420px;
+    width: 260px;
+    border: blue solid 4px;
+    border-radius: 5%;
+}
